@@ -20,7 +20,6 @@ public class App {
 		App app = (App) ctx.getBean("app");
 		
 		app.logEvents("About client 1 ");
-		app.logEvents("About client 2 ");
 	
 	}
 	
